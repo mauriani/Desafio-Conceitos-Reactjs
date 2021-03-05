@@ -20,3 +20,29 @@ Agora você deve continuar desenvolvendo a aplicação que irá armazenar reposi
 - [x]  **`Remover um repositório da sua API`**: Para cada item da sua lista, deve possuir um botão com o texto **Remover** que, ao clicar, irá chamar uma função para remover esse item da lista do seu frontend e da sua API.
 
 
+
+### Clonando o projeto
+
+```jsx
+git clone https://github.com/mauriani/Desafio-Conceitos-Reactjs
+```
+
+### Executando
+
+Antes de dá start na aplicação você tem que instalar as dependências através do comando:
+
+```jsx
+yarn 
+or 
+npm install
+```
+
+Depois disso basta rodar:
+
+```jsx
+yarn dev
+```
+
+
+
+
